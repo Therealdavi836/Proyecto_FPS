@@ -88,7 +88,7 @@ Este programa, desarrollado en lenguaje C, permite gestionar el registro académ
 - **Gestión Avanzada**: Introducir estructuras como árboles o listas enlazadas para manejo dinámico de registros.
 
 ## Autor
-- **Administración de Sistemas Informáticos**  
+- **Juan David Fajardo Betancourt**  
   Universidad Nacional de Colombia.
 
 ---
