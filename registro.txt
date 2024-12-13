@@ -1,0 +1,117 @@
+
+
+Numero de documento: 1234
+Nombre: juan
+Matematicas: 2.00
+Quimica: 3.40
+Biologia: 2.43
+Informatica: 2.40
+Promedio: 8.43
+
+Numero de documento: 5678
+Nombre: marcos
+Matematicas: 2.00
+Quimica: 4.00
+Biologia: 5.00
+Informatica: 4.00
+Promedio: 12.00
+
+
+Numero de documento: 4544
+Nombre: carolina
+Matematicas: 3.00
+Quimica: 3.00
+Biologia: 3.00
+Informatica: 3.00
+Promedio: 9.75
+
+Numero de documento: 7621
+Nombre: pepe
+Matematicas: 5.00
+Quimica: 5.00
+Biologia: 5.00
+Informatica: 5.00
+Promedio: 16.25
+
+
+Numero de documento: 77771
+Nombre: manuel
+Matematicas: 3.50
+Quimica: 2.50
+Biologia: 5.00
+Informatica: 3.60
+Promedio: 11.90
+
+Numero de documento: 9090
+Nombre: jesus
+Matematicas: 2.00
+Quimica: 2.00
+Biologia: 2.00
+Informatica: 2.00
+Promedio: 6.50
+
+
+Numero de documento: 1228
+Nombre: anacleta
+Matematicas: 4.00
+Quimica: 3.50
+Biologia: 5.00
+Informatica: 2.00
+Promedio: 13.00
+
+Numero de documento: 22222222
+Nombre: camelio
+Matematicas: 3.00
+Quimica: 5.00
+Biologia: 3.00
+Informatica: 2.00
+Promedio: 11.50
+
+Numero de documento: 1453
+Nombre: marcos
+Matematicas: 3.00
+Quimica: 4.00
+Biologia: 2.00
+Informatica: 5.00
+Promedio: 10.25
+
+Numero de documento: 5676
+Nombre: raul
+Matematicas: 4.00
+Quimica: 5.00
+Biologia: 5.00
+Informatica: 5.00
+Promedio: 15.25
+
+
+Numero de documento: 1120983627
+Nombre: Carlos
+Matematicas: 5.00
+Quimica: 2.90
+Biologia: 4.50
+Informatica: 0.10
+Promedio: 12.42
+
+Numero de documento: 1056120853
+Nombre: Juan
+Matematicas: 5.00
+Quimica: 5.00
+Biologia: 5.00
+Informatica: 5.00
+Promedio: 16.25
+
+Numero de documento: 107658657
+Nombre: ismael
+Matematicas: 4.00
+Quimica: 4.00
+Biologia: 4.00
+Informatica: 4.00
+Promedio: 13.00
+
+Numero de documento: 986251729
+Nombre: johan
+Matematicas: 3.40
+Quimica: 5.00
+Biologia: 4.90
+Informatica: 2.90
+Promedio: 14.02
