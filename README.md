@@ -93,4 +93,4 @@ Este programa, desarrollado en lenguaje C, permite gestionar el registro académ
 
 ---
 
-**Nota**: Este README documenta las funcionalidades y estructura de un programa ya implementado para la gestión académica de estudiantes.
+**Nota**: Este Proyecto fue presentado al Docente Aldemir Vargas Eudor.
